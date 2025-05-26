@@ -1,0 +1,12 @@
+{
+  "appId": "com.riderapp",
+  "appName": "RiderApp",
+  "webDir": "./custom_maps/build",  
+  "bundledWebRuntime": false,
+  "plugins": {
+    "Geolocation": {
+      "backgroundLocationTracking": false
+    }
+  },
+  "cordova": {}
+}
