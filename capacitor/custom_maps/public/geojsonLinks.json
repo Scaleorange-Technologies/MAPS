@@ -305,7 +305,8 @@
   "TELANGANA_SUBDISTRICTS": "https://raw.githubusercontent.com/ChandrikaBotta1/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_SUBDISTRICTS.geojson",
   "TELANGANA_PARLIAMENT": "https://raw.githubusercontent.com/ChandrikaBotta1/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA_parliament.geojson",
   "GHMC_AREA": "https://raw.githubusercontent.com/ChandrikaBotta1/INDIAN_SHAPEFILES/main/STATES/TELANGANA/ghmc-area.geojson",
-  "GHMC_WARDS": "https://raw.githubusercontent.com/ChandrikaBotta1/INDIAN_SHAPEFILES/main/STATES/TELANGANA/ghmc-wards.geojson"
+  "GHMC_WARDS": "https://raw.githubusercontent.com/ChandrikaBotta1/INDIAN_SHAPEFILES/main/STATES/TELANGANA/ghmc-wards.geojson",
+  "GHMC_ZONES": "https://raw.githubusercontent.com/ChandrikaBotta1/INDIAN_SHAPEFILES/main/STATES/TELANGANA/ghmc-zones.geojson"
     },
     "TRIPURA": {
       "TRIPURA DISTRICT HQ": "https://raw.githubusercontent.com/ChandrikaBotta1/INDIAN_SHAPEFILES/main/STATES/TRIPURA/TRIPURA District Hq.geojson",
