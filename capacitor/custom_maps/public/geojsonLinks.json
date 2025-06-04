@@ -1,6 +1,6 @@
 {
   "INDIA": {
-    "INDIAN_broad guage RAILWAYS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_RAILWAYS.geojson",
+    "INDIAN_RAILWAYS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_RAILWAYS.geojson",
     "INDIAN_SUB_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_SUB_DISTRICTS.geojson",
     "INDIA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_DISTRICTS.geojson",
     "INDIA_ENERGY_PLANTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_ENERGY_PLANTS.geojson",
