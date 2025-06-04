@@ -1,12 +1,13 @@
 {
   "INDIA": {
-    "INDIAN_RAILWAYS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_RAILWAYS.geojson",
-    "INDIAN_SUB_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_SUB_DISTRICTS.geojson",
+    "INDIA_STATES": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_STATES.geojson",
     "INDIA_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_DISTRICTS.geojson",
+    "INDIAN_SUB_DISTRICTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_SUB_DISTRICTS.geojson",
+    "INDIAN_RAILWAYS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIAN_RAILWAYS.geojson",
     "INDIA_ENERGY_PLANTS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_ENERGY_PLANTS.geojson",
     "INDIA_NATIONAL_HIGHWAY": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_NATIONAL_HIGHWAY.geojson",
     "INDIA_POLICE_STATIONS": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_POLICE_STATIONS.geojson",
-    "INDIA_STATES": "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/INDIA_STATES.geojson"
+    "INDIA_RIVERS" : "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/INDIA/Ind_waterways.geojson"
   },
   "STATES": {
     "ANDAMAN & NICOBAR": {
